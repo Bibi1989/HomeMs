@@ -1,0 +1,29 @@
+{
+  "patient": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "name": "Tombra John",
+      "email": "etomaremieye@gmail.com",
+      "phone": "0",
+      "dob": "",
+      "other": "",
+      "id": 4
+    },
+    {
+      "name": "Ebi aremieye",
+      "email": "etomaremieye@gmail.com",
+      "phone": "1234",
+      "dob": "2019-09-25",
+      "other": "",
+      "id": 5
+    }
+  ]
+}

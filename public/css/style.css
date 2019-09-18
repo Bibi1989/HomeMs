@@ -1,0 +1,31 @@
+.navbar{
+    display: flex;
+}
+
+.navbar-brand{
+    justify-self: flex-start;
+}
+
+.navbarNavAltMarkup{
+    justify-self: flex-end;
+}
+
+.image{
+    background: url(/img/piron-guillaume-kJwZxH6jins-unsplash_kjfdxr_c_scale\,w_1400.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 70vh;
+}
+
+/* Modal style */
+.modal-header{
+    background: cyan;
+    color: white;
+}
+
+footer{
+    background: teal;
+    color: white;
+}
